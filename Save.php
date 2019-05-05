@@ -67,7 +67,7 @@ if($name && $age && $email && $event && $date) {
 
 
 // connect to database
-$con = mysqli_connect("deebee.hippycentral.org","teamcyberino","Recent-Purple-Belt-Propose-6","hj_danny");
+$con = mysqli_connect("");
 
 // Check connection
 if (mysqli_connect_errno())
