@@ -36,7 +36,7 @@ body, html, a {
 $to = $_POST['email'];
 $to2 = $_POST['email2'];
 $subject = 'Test';
-$from = 'einnefnam@gmail.com';
+$from = '';
 
 if($to==$to2) {
  
